@@ -41,7 +41,7 @@ class LendingsController < ApplicationController
   private
 
   def lending_params
-    params.require(:lending).permit(:copy_id, :borrower_id, :due_date, :lend_date, :status, :borrower_rating, :owner_rating)
+    params.require(:lending).permit(:copy_id, :borrower_id, :due_date, :lend_date, :status, :rating)
   end
 
 
