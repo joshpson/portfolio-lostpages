@@ -1,5 +1,9 @@
 class LendingsController < ApplicationController
 
+  def index
+
+  end
+
   def new
     if params[:search]
       @book_list = Copy.friend_copies_search(params[:search], current_user)
