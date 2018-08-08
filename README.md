@@ -1,24 +1,9 @@
-# README
+Social network built with Ruby on Rails, Bootstrap, and the Google Book API.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Users can manage their library and lend and borrow books from their friends.
 
-Things you may want to cover:
+This was built as a project at Flatiron School in Washington D.C. with Munir Kizilcali. 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Demo Account: 
+username: demo@demo.com
+pw: demo
