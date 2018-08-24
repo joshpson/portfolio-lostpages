@@ -28,7 +28,7 @@ search_google_books("Ruby")
 # ])
 
 users = User.create([
-  {name:"Fionna Apple", email: "fionna@fionna.com", password: "password", password_confirmation: "password"},
+  {name:"Fionna Apple", email: "fionna", password: "password", password_confirmation: "password"},
   {name:"Carson Wentz", email: "carson@carson.com", password: "password", password_confirmation: "password"},
   {name:"Bryce Harper", email: "bryce@bryce.com", password: "password", password_confirmation: "password"},
   {name:"Kelly Smith", email: "kelly@kelly.com", password: "password", password_confirmation: "password"},
